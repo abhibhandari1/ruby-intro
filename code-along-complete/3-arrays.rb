@@ -7,8 +7,8 @@
 
 # We can build an array out of different
 # types of things, or even combine types of things if we want.
-favorite_foods = ["tacos", "pizza", "ice cream"]
-puts favorite_foods
+delish_foods = ["tacos", "pizza", "ice cream"]
+puts delish_foods
 
 we_have_to_go_back = [4, 8, 15, 16, 23, 42]
 puts we_have_to_go_back # if you don't understand, you have a lot of TV watching to do
